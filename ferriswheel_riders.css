@@ -1,0 +1,58 @@
+body{
+background-image:url("https://i0.wp.com/picjumbo.com/wp-content/uploads/flying-swing-carousel-amusement-park-ride-fun-fair-free-photo.jpg?w=2210&quality=70");
+background-size: cover;
+font-family:'Sans-serif', 'Arial', 'Verdana', 'Helvetica'
+'Open Sans',  
+font-weight: bold;
+text-align: center;
+}
+
+.container{
+    background:white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+
+}
+
+h1{
+color: black;
+margin-top: 10px;
+margin-bottom:10px;
+}
+
+h2{
+color: black;
+font-size: 50px;
+margin-top:0;
+margin-bottom: 20 px
+}
+
+p{
+
+    color:black;
+    font-weight: bold;
+
+}
+button{
+
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn{
+
+    background:#2C2891;
+}
+
+#save-btn{
+
+    background: darkgreen;
+}
